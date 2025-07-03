@@ -1,0 +1,12 @@
+.hero h1 {
+    font-weight: 600;
+    font-size: 3rem;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+  }
+  
+  .hero-btn {
+    font-size: 1.1rem;
+  }
